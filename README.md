@@ -54,7 +54,7 @@
   <a href="https://www.facebook.com/profile.php?id=100067898994168" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="vuong2306-facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
+  <a  target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
   </a>
   <a href="mailto:quocvuong2003gl@gmail.com" target="top">
